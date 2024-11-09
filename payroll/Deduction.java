@@ -23,11 +23,6 @@ public class Deduction {
         System.out.println("You need to pay 10% of your Acutal Salary to tax:");
         System.out.println(tax);
         System.out.println("Congratulations! You’ve just donated your salary to the government");
-        
-      //  System.out.println("Basic Salary: " + salary);
-      //  System.out.println("Tax Deduction: " + tax);
-      //  System.out.println("PF Deduction: " + pf);
-      //  System.out.println("Final Salary after Deductions: " + finalSalary);
         System.out.println("");
         System.out.println("=> your PF contribution <=");
         System.out.println("Your Pf amount added this month :  ");
